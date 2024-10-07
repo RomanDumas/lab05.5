@@ -13,7 +13,7 @@ namespace UnitTest1
 		TEST_METHOD(TestMethod1)
 		{
 			double expected;
-			double result = fun(10, 15, 15 % 10, 1);
+			double result = fun(10, 15, 15 % 10, 1, 0);
 			if (((30 >= 10) && (30 % 10) == 0) && ((30 >= 15) && (30 % 15) == 0) && ((30 >= 5) && (10 % 5) == 0))
 				expected = 30;
 			
