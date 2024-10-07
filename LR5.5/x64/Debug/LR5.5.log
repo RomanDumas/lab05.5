@@ -1,0 +1,3 @@
+﻿  LR5.5.cpp
+C:\Users\hp\source\repos\LR5.5\LR5.5\LR5.5.cpp(11,1): warning C4715: 'fun': not all control paths return a value
+  LR5.5.vcxproj -> C:\Users\hp\source\repos\LR5.5\x64\Debug\LR5.5.exe
